@@ -1,4 +1,4 @@
-package eu.fezilla.tools.appmonitoring.domain;
+package eu.frezilla.tools.appmonitoring.domain;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

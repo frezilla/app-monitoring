@@ -1,6 +1,6 @@
 package eu.frezilla.tools.appmonitoring;
 
-import eu.fezilla.tools.appmonitoring.swing.LoginFrame;
+import eu.frezilla.tools.appmonitoring.swing.LoginFrame;
 import com.formdev.flatlaf.FlatLightLaf;
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;

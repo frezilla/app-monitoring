@@ -1,4 +1,4 @@
-package eu.fezilla.tools.appmonitoring.repository;
+package eu.frezilla.tools.appmonitoring.repository;
 
 import eu.frezilla.tools.appmonitoring.core.DatabaseManager;
 import eu.frezilla.tools.appmonitoring.core.PoolVariables;

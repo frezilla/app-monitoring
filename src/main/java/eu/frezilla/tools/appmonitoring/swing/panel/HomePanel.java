@@ -1,6 +1,6 @@
 package eu.frezilla.tools.appmonitoring.swing.panel;
 
-import eu.fezilla.tools.appmonitoring.service.UserService;
+import eu.frezilla.tools.appmonitoring.service.UserService;
 import javax.swing.JPanel;
 
 public class HomePanel extends JPanel {

@@ -1,6 +1,6 @@
 package eu.frezilla.tools.appmonitoring.core;
 
-import eu.fezilla.tools.appmonitoring.domain.User;
+import eu.frezilla.tools.appmonitoring.domain.User;
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
 import java.sql.Connection;

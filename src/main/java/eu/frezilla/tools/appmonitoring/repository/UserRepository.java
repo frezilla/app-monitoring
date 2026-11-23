@@ -1,6 +1,6 @@
-package eu.fezilla.tools.appmonitoring.repository;
+package eu.frezilla.tools.appmonitoring.repository;
 
-import eu.fezilla.tools.appmonitoring.domain.User;
+import eu.frezilla.tools.appmonitoring.domain.User;
 
 public class UserRepository extends CRUDRepository<User, Integer> {
     

@@ -1,6 +1,6 @@
-package eu.fezilla.tools.appmonitoring.service;
+package eu.frezilla.tools.appmonitoring.service;
 
-import eu.fezilla.tools.appmonitoring.repository.UserRepository;
+import eu.frezilla.tools.appmonitoring.repository.UserRepository;
 
 public class UserService extends Service {
     

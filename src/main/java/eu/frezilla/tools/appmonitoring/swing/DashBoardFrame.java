@@ -1,4 +1,4 @@
-package eu.fezilla.tools.appmonitoring.swing;
+package eu.frezilla.tools.appmonitoring.swing;
 
 import eu.frezilla.tools.appmonitoring.swing.panel.HomePanel;
 import eu.frezilla.tools.appmonitoring.swing.panel.SettingsPanel;
