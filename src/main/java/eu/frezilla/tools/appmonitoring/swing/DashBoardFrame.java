@@ -4,6 +4,7 @@ import eu.frezilla.tools.appmonitoring.swing.panel.HomePanel;
 import eu.frezilla.tools.appmonitoring.swing.panel.SettingsPanel;
 import eu.frezilla.tools.appmonitoring.swing.panel.WeekEndPanel;
 import eu.frezilla.tools.appmonitoring.core.DatabaseManager;
+import eu.frezilla.tools.appmonitoring.swing.panel.UserPanel;
 import java.awt.BorderLayout;
 import java.awt.Component;
 import java.awt.Dimension;
@@ -133,6 +134,7 @@ public class DashBoardFrame extends JFrame {
         // Onglets
         tabbedPane.setTabPlacement(JTabbedPane.TOP);
         tabbedPane.addTab("Accueil", new HomePanel());
+        tabbedPane.addTab("Utilisateurs", new UserPanel());
         tabbedPane.addTab("Connexion le week-end", new WeekEndPanel(databaseManager));
         tabbedPane.addTab("Paramètres", new SettingsPanel());
         mainPanel.add(tabbedPane, BorderLayout.CENTER);
